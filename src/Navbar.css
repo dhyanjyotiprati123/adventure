@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #fff !important;
+}
+
+.navbar-brand{
+    font-size: 1.7rem !important;
+    color: #3797a4 !important;
+
+}
+
+.navbar a{
+    font-size: 1.3rem !important;
+    text-transform: capitalize !important;
+}
+
+.navbar_active{
+    font-weight: bold;
+    border-bottom: 1px solid #14274e;
+}
+
+.navbar a:hover{
+    color: #3797a4 !important;
+}
+
